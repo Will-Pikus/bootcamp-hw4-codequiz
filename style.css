@@ -1,0 +1,61 @@
+header {
+    width: auto;
+    height: 100px;
+}
+
+.header-text{
+    display: inline-block;
+}
+
+#view-hs{
+    color:rgb(86, 17, 143);
+    font-size: large;
+    font-weight: bold;
+    margin-left: 15px;
+}
+
+#time{
+    float: right;
+    font-weight: bold;
+    font-size: large;
+    margin-right: 150px;
+}
+.container-center{
+    height: 100%;
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
+
+/* .container-left{
+    height: 100%;
+    width: 50%;
+    margin: auto;
+    text-align: left;
+} */
+
+.box-clean h1 {
+    font-weight: bold;
+    font-size: 40px;
+}
+
+ol{
+    text-align: left;
+    width: 300px;
+}
+
+li{
+    align-items: center;
+    
+}
+
+
+.button-style {
+    height: 50px;
+    width: 300px;
+    margin: 1rem;
+    border:none;
+    color: white;
+    background-color: rgb(86, 17, 143);
+    border-radius: 10px 10px 10px 10px;
+}
